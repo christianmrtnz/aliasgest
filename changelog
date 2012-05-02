@@ -1,0 +1,29 @@
+aliasgest es un script que facilita la creación de alias a los usuarios, brindando las opciones más comunes y permitiendole personalizarlas.
+
+CHANGELOG:
+
+VERSIÓN: 0.1b (ACTUAL)
+Características: menú sencillo con 19 opciones predeterminadas y una para personalizar
+Bugs: error al eliminar alias
+Próximas modificaciones: corregir error de eliminación de alias
+
+-------------------------------------------------------------------------------------------------
+
+VERSIÓN: 0.1
+Características: menú sencillo con 19 opciones predeterminadas y una para personalizar
+Bugs: n/s
+Próximas modificaciones: muchas más opciones en el menú, colocación del personalizado como primero y compresión del código lanzado
+
+-------------------------------------------------------------------------------------------------
+
+VERSIÓN: 0.5
+Características: menú completo con muchas opciones predeterminadas y una para personalizar
+Bugs: n/s
+Próximas modificaciones: añadido de submenus con ideas de comandos habituales
+
+-------------------------------------------------------------------------------------------------
+
+VERSIÓN 1
+Características: menú gráfico mediante zenity completo con muchas opciones predeterminadas y una para personalizar
+Bugs: n/s
+Próximas modificaciones: pasarlo a python
